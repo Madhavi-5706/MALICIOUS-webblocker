@@ -1,10 +1,10 @@
-# 🛡️ Malicious Web Blocker
+# Malicious Web Blocker
 
 **Advanced Cyber Security & Threat Analysis Tool**
 
 Malicious Web Blocker is a Python and Tkinter-based tool that helps protect Windows users by scanning URLs using the VirusTotal API and blocking access to sites flagged as malicious or phishing threats.
 
-## 🚀 Features
+## Features
 - **Real-time scanning of websites using VirusTotal API**
 - **Alerts and blocks malicious URLs**
 - **Easy-to-use graphical interface**
@@ -13,7 +13,7 @@ Malicious Web Blocker is a Python and Tkinter-based tool that helps protect Wind
 - **Standalone Windows executable (`main.exe`) for easy use**
 - **Prevents accidental visits to flagged sites**
 
-## 🖥️ Installation & Usage
+## Installation & Usage
 
 ### Option 1: Windows Executable
 - Download the latest release from the [Releases](https://github.com/Madhavi-5706/MALICIOUS-webblocker/releases) page.
@@ -61,7 +61,7 @@ python main.py
 9. **Exit**  
  Close the application window when done.
 
-## 📊 Screenshots
+## Screenshots
 <img width="1916" height="1021" alt="image" src="https://github.com/user-attachments/assets/33f0c116-6bf1-4fd3-8427-57349b8936b7" />
 <img width="641" height="482" alt="image" src="https://github.com/user-attachments/assets/cd13bf89-27b7-403e-a7fa-87dcf5abd591" />
 <img width="506" height="293" alt="image" src="https://github.com/user-attachments/assets/408eae55-0598-4c75-bf3b-59a117b78bd8" />
@@ -72,7 +72,7 @@ python main.py
 <img width="1873" height="899" alt="image" src="https://github.com/user-attachments/assets/da9720e6-cde0-4dee-acb6-ce9a3156b407" />
 
 
-## 🧑‍💻 Developers
+## Developers
 - K. Madhavi Priya  
 - V. Hema  
 - Sk. Nasrin Sultana  
